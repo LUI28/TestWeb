@@ -1,2 +1,2 @@
-# index
+# web
 Web for test
